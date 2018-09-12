@@ -4,7 +4,7 @@ public class data
 {
 	public static void main(String args[])
 	{
-		File fi = new File("/home/shobhit/Desktop/abc.txt");
+		File fi = new File("/home/aish/Desktop/abc.txt");
 		try
 		{
 			FileOutputStream fo = new FileOutputStream(fi);
